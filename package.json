@@ -1,18 +1,11 @@
 {
-  "name": "student-express-server",
-  "version": "1.0.0",
-  "description": "Express server แสดงข้อมูลนักศึกษา",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "express": "^4.19.2"
-  },
-  "engines": {
-    "node": ">=18.0.0"
-  },
+"name": "my-first-server",
+"version": "1.0.0",
+"scripts": {
+"start": "node server.js"
+},
 "dependencies": {
-"pg": "^8.11.3"
+"pg": "^8.11.3",
+"express": "^4.19.2"
 }
 }
